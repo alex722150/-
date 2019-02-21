@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\alex ushakov\desktop\курсовая работа\программа\kursovaya\source.cpp(26): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Kursovaya.vcxproj -> C:\Users\Alex Ushakov\Desktop\Курсовая работа\Программа\Debug\Kursovaya.exe
